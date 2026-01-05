@@ -80,14 +80,24 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 
 ---
 
-## 📊 GitHub Activity (Stable & Reliable)
+## 📊 GitHub Activity
 
-### 🔥 Contribution Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akshay-1a" alt="GitHub Streak" /></a>
+### 🔥 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-1a&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
 
-### 🏅 Developer Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=akshay-1a&theme=darkhub&no-frame=true&margin-w=10" />
+---
 
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,django,postgres,mysql,firebase,supabase,vercel,netlify,git,github,figma,photoshop&perline=9" />
+
+---
+
+## 👀 Profile Metrics
+
+<img src="https://komarev.com/ghpvc/?username=akshay-1a&style=flat-square" />
+<img src="https://img.shields.io/github/followers/akshay-1a?style=flat-square" />
+<img src="https://img.shields.io/github/stars/akshay-1a?style=flat-square" />
 
 ---
 
