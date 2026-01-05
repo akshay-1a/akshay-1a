@@ -83,7 +83,7 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 ## 📊 GitHub Activity (Stable & Reliable)
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=akshay-1a)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akshay-1a" alt="GitHub Streak" /></a>
 
 ### 🏅 Developer Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=akshay-1a&theme=darkhub&no-frame=true&margin-w=10" />
