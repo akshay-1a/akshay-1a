@@ -1,122 +1,116 @@
-<h1 align="center">🔥 Akshay Arora 🔥</h1>
+<h1 align="center">⚡ Akshay Arora ⚡</h1>
 <h3 align="center">Full-Stack Developer • SEO Project Lead • Product Builder</h3>
 
 <p align="center">
   <a href="https://akshay.imperfectors.com">🌐 Portfolio</a> •
-  <a href="https://github.com/akshay-1a">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/-akshay-/">🔗 LinkedIn</a>
+  <a href="https://linkedin.com/in/-akshay-/">🔗 LinkedIn</a> •
+  <a href="mailto:akshay@imperfectors.com">📬 Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshay-1a&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/akshay-1a?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/akshay-1a?label=Stars&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=akshay-1a&label=Profile%20Views&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/akshay-1a?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/akshay-1a?label=Stars&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I’m a **Full-Stack Developer** who builds **production-grade platforms**, not demo apps.
+I build **production-grade full-stack systems** that scale, rank, and convert.
 
-- 2+ years of real-world experience shipping **SEO-optimized, high-performance systems**
-- Strong focus on **Next.js, React, TypeScript, and scalable architecture**
-- Comfortable owning **end-to-end products** — frontend, backend, SEO, ads, and deployment
-- Believe in **clean UX, fast load times, and business-driven engineering**
+- 2+ years shipping **real-world platforms** (not demos)
+- Expert in **Next.js, React, TypeScript, SEO & performance**
+- Own products **end-to-end** — code, architecture, growth
+- Strong believer in **clean UX + measurable impact**
 
-> I don’t just write code. I build systems that rank, scale, and convert.
+> Code is only valuable when it solves a real problem.
 
 ---
 
 ## 🏆 Flagship Work
 
-### 🏢 Kamal Associates — Full-Stack Platforms (Flagship)
+### 🏢 Kamal Associates — Multi-Domain Platforms
 
-Built and owned **multiple production platforms** across industries:
-
-- 🏠 **Real Estate Systems** — property listing, buying & selling
-- 🛠 **Kamal Services** — vendor ↔ client marketplace
-- 🏡 **GarvikStay** — OTA-synced homestay booking platform
-- ⚖ **Legal & Documentation** — CMS-driven business websites
-
-**Highlights**
-- Mobile-first, SEO-optimized architecture  
-- OTA booking sync & CMS control  
-- Strong Google search rankings  
-- Launched **KamalCRM Android app** on Play Store  
+- Real estate systems (listing, buy/sell)
+- Vendor–client services marketplace
+- OTA-synced homestay booking platform
+- CMS-driven legal & documentation sites
+- Launched **KamalCRM Android app**
 - Led a **4-member cross-functional team**
+
+**Focus:** Mobile-first · SEO-first · Scalable · Production-ready
 
 ---
 
 ### 🧴 Dermakaca — Healthcare Platform
 
-- Android-first **full-stack healthcare web app**
-- **100+ service pages**, each with booking & enquiry flows
+- Android-first full-stack web app
+- **100+ service pages** with booking & enquiry flows
 - High-performance UI + deep SEO optimization
-- Strong visibility across multiple search engines
+- Strong multi-search-engine visibility
 
 ---
 
-## 🧰 Tech Stack (Signal-Only)
+## 🧰 Tech Stack (Signal > Noise)
 
 **Frontend**  
 `Next.js` `React` `TypeScript` `Tailwind` `Shadcn` `Framer Motion` `GSAP`
 
 **Backend & APIs**  
-`Node.js` `Django` `REST APIs`
+`Node.js` `Django` `REST`
 
 **Auth & Security**  
 `NextAuth` `OAuth` `Firebase Auth` `Clerk`
 
-**Database & Storage**  
+**Database**  
 `PostgreSQL` `MySQL` `Firebase` `Supabase`
 
 **SEO & Performance**  
 `Core Web Vitals` `Technical SEO` `On-page SEO`
 
 **AI Integration**  
-`OpenAI APIs` `Stable Diffusion` `Gen-AI Workflows`
+`OpenAI APIs` `Stable Diffusion`
 
 **DevOps & Tools**  
 `Git` `GitHub` `Vercel` `Netlify` `Render` `VPS`
 
-**Design & Branding**  
+**Design**  
 `Figma` `Photoshop` `Illustrator` `Canva`
+
+---
+
+## 📊 GitHub Activity (Stable & Reliable)
+
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=akshay-1a&theme=dark&hide_border=true" />
+
+### 🏅 Developer Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=akshay-1a&theme=darkhub&no-frame=true&margin-w=10" />
+
+> These services are **more stable** than github-readme-stats and widely used by top profiles.
 
 ---
 
 ## 🎓 Education
 
 **BCA (Data Science)** — Swarrnim Start-up & Innovation University  
-- 🏅 **CGPA: 9.7 / 10**
-- 🥇 **University & Institute Topper**
+- 🏅 CGPA: **9.7 / 10**
+- 🥇 University & Institute Topper
 - 👑 President Lead — CodeChef Chapter
-
----
-
-## 📊 GitHub Stats (Because We Flex)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-1a&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-1a&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
 ## ⚡ Philosophy
 
-> “Build fast. Ship clean. Optimize relentlessly.”
-
-If it’s not **fast**, **scalable**, and **rankable**, it’s not done.
+> Build fast. Ship clean. Optimize relentlessly.
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let’s Connect
 
-- 💼 Open to **high-impact frontend / full-stack roles**
-- 🚀 Interested in **startups, SaaS, and product-driven teams**
-- 📬 Reach me at **akshay@imperfectors.com**
+- 💼 Full-Stack / Frontend roles
+- 🚀 Startup & product-driven teams
+- 📬 **akshay@imperfectors.com**
 
----
-
-⭐ If you like my work, **star a repo** — it helps more than you think.
+⭐ Star a repo if something helps you — it means more than likes.
