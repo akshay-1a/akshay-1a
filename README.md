@@ -88,7 +88,6 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 ### 🏅 Developer Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=akshay-1a&theme=darkhub&no-frame=true&margin-w=10" />
 
-> These services are **more stable** than github-readme-stats and widely used by top profiles.
 
 ---
 
