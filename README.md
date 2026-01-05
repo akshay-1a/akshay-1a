@@ -54,7 +54,7 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 
 ## 🧠 Tech Stack
 <details open>
-<summary><strong>🧰 Visual Tech Stack (Icons)</strong></summary>
+<summary><strong>🧰 Visual Tech Stack</strong></summary>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,django,postgres,mysql,firebase,supabase,vercel,netlify,git,github,figma,photoshop&perline=9" />
 
