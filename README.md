@@ -52,31 +52,68 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 
 ---
 
-## 🧰 Tech Stack (Signal > Noise)
+## 🧠 Tech Stack
+<details>
+<summary><strong>🧰 Visual Tech Stack (Icons)</strong></summary>
 
-**Frontend**  
-`Next.js` `React` `TypeScript` `Tailwind` `Shadcn` `Framer Motion` `GSAP`
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,django,postgres,mysql,firebase,supabase,vercel,netlify,git,github,figma,photoshop&perline=9" />
 
-**Backend & APIs**  
-`Node.js` `Django` `REST`
+</details>
 
-**Auth & Security**  
-`NextAuth` `OAuth` `Firebase Auth` `Clerk`
+### 🎨 Frontend Engineering
+- **Frameworks & Libraries:** Next.js, React.js  
+- **Languages:** TypeScript, JavaScript (ES6+)  
+- **Styling & UI:** Tailwind CSS, Shadcn UI  
+- **Animations:** Framer Motion, GSAP  
+- **Markup & Standards:** HTML5, CSS3  
 
-**Database**  
-`PostgreSQL` `MySQL` `Firebase` `Supabase`
+---
 
-**SEO & Performance**  
-`Core Web Vitals` `Technical SEO` `On-page SEO`
+### 🧩 Backend & APIs
+- **Runtime & Frameworks:** Node.js, Django  
+- **API Design:** RESTful APIs  
 
-**AI Integration**  
-`OpenAI APIs` `Stable Diffusion`
+---
 
-**DevOps & Tools**  
-`Git` `GitHub` `Vercel` `Netlify` `Render` `VPS`
+### 🔐 Authentication & Security
+- NextAuth.js  
+- OAuth 2.0  
+- Firebase Authentication  
+- Clerk  
 
-**Design**  
-`Figma` `Photoshop` `Illustrator` `Canva`
+---
+
+### 🗄️ Databases & Storage
+- **Relational:** PostgreSQL, MySQL  
+- **BaaS / Cloud Databases:** Firebase, Supabase  
+
+---
+
+### 🚀 Performance & SEO
+- Core Web Vitals Optimization  
+- Technical SEO & On-Page SEO  
+- Mobile-First & SEO-Friendly Architecture  
+
+---
+
+### 🤖 AI & Automation
+- AI-powered Web Applications  
+- OpenAI APIs  
+- Stable Diffusion & Generative Image Workflows  
+
+---
+
+### ⚙️ DevOps & Deployment
+- Version Control: Git, GitHub  
+- Hosting & CI/CD: Vercel, Netlify, Render  
+- Server Management: VPS Hosting  
+
+---
+
+### 🎨 Design & Branding
+- UI/UX Design: Figma  
+- Graphics & Branding: Photoshop, Illustrator  
+- Marketing Assets: Canva  
 
 ---
 
