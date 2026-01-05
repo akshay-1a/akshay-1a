@@ -53,7 +53,7 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 ---
 
 ## 🧠 Tech Stack
-<details>
+<details open>
 <summary><strong>🧰 Visual Tech Stack (Icons)</strong></summary>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,django,postgres,mysql,firebase,supabase,vercel,netlify,git,github,figma,photoshop&perline=9" />
@@ -121,12 +121,6 @@ I build **production-grade full-stack systems** that scale, rank, and convert.
 
 ### 🔥 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-1a&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-
----
-
-## 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,django,postgres,mysql,firebase,supabase,vercel,netlify,git,github,figma,photoshop&perline=9" />
 
 ---
 
